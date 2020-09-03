@@ -1,1 +1,1 @@
-# CS122A
+# CS122A Embedded Systems
